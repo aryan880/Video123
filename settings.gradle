@@ -1,0 +1,2 @@
+rootProject.name='VideoMerger'
+include ':app'
